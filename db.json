@@ -1,1 +1,68 @@
-{"VesselVisit":{"craneList":[{"unitExecutedList":[{"idUnit":"MSCK1234567"},{"idUnit":"TCKU5633679"},{"idUnit":"TCNU2968547"},{"idUnit":"MSCU2587496"}],"unitPlannedList":[{"idUnit":"KKFU9784321"},{"idUnit":"KKFU7895521"},{"idUnit":"TCLU9968570"},{"idUnit":"BOLU7889332"},{"idUnit":"LIDU2001487"}],"idCrane":"QC11"},{"unitExecutedList":[{"idUnit":"MSCK1234567"},{"idUnit":"TCKU5633679"},{"idUnit":"MSCU2587496"},{"idUnit":"MOLU9685711"}],"unitPlannedList":[{"idUnit":"KKFU9784321"}],"idCrane":"QC33"}],"idVisit":"VisTEST","vesselName":"FARGAN"}}
+{
+	"VesselVisit": {
+		"craneList": [{
+			"unitExecutedList": [{
+				"idUnit": "MSCK1234567",
+				"dateOfMove": "2017-09-18 16:00:00"
+			},
+			{
+				"idUnit": "TCKU5633679",
+				"dateOfMove": "2017-09-18 16:00:00"
+			},
+			{
+				"idUnit": "TCNU2968547",
+				"dateOfMove": "2017-09-18 16:00:00"
+			},
+			{
+				"idUnit": "MSCU2587496",
+				"dateOfMove": "2017-09-18 16:00:00"
+			}],
+			"unitPlannedList": [{
+				"idUnit": "KKFU9784321",
+				"dateOfMove": "2017-09-18 17:00:00"
+			},
+			{
+				"idUnit": "KKFU7895521",
+				"dateOfMove": "2017-09-18 17:01:00"
+			},
+			{
+				"idUnit": "TCLU9968570",
+				"dateOfMove": "2017-09-18 17:02:00"
+			},
+			{
+				"idUnit": "BOLU7889332",
+				"dateOfMove": "2017-09-18 17:03:00"
+			},
+			{
+				"idUnit": "LIDU2001487",
+				"dateOfMove": "2017-09-18 17:04:00"
+			}],
+			"idCrane": "QC11"
+		},
+		{
+			"unitExecutedList": [{
+				"idUnit": "MSCK1234567",
+				"dateOfMove": "2017-09-18 15:00:00"
+			},
+			{
+				"idUnit": "TCKU5633679",
+				"dateOfMove": "2017-09-18 15:00:00"
+			},
+			{
+				"idUnit": "MSCU2587496",
+				"dateOfMove": "2017-09-18 15:00:00"
+			},
+			{
+				"idUnit": "MOLU9685711",
+				"dateOfMove": "2017-09-18 15:00:00"
+			}],
+			"unitPlannedList": [{
+				"idUnit": "KKFU9784321",
+				"dateOfMove": "2017-09-18 18:00:00"
+			}],
+			"idCrane": "QC33"
+		}],
+		"idVisit": "VisTEST",
+		"vesselName": "FARGAN"
+	}
+}
